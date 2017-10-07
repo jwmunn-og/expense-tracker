@@ -35,6 +35,7 @@ gem 'jbuilder', '~> 2.5'
 
 # Use Bootstrap
 gem 'bootstrap', '~> 4.0.0.beta'
+gem 'jquery-rails'
 
 # Use React
 gem 'react-rails', '~> 1.0'
